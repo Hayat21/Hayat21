@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/@lahcenhayat" target="blank"><img src="https://img.shields.io/twitter/follow/@lahcenhayat?logo=twitter&style=for-the-badge" alt="@lahcenhayat" /></a> </p>
 
-- 🔭 I’m currently working on **Computer vision project**
+- 🔭 I’m currently working on **a project**
 
 - 🌱 I’m currently learning **new things**
 
 - 👯 I’m looking to collaborate on **Youtube**
 
-- 📝 I regularly write articles on [datascientistwithhayatbenlahcen.blogspot.com](datascientistbyhayatbenlahcen.blogspot.com)
+- 📝 I regularly write articles on [datascientistwithhayatbenlahcen.blogspot.com](datascientistwithhayatbenlahcen.blogspot.com)
 
 - 📫 How to reach me **Twitter -@LahcenHayat**
 
