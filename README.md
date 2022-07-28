@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Youtube**
 
-- 📝 I regularly write articles on [datascientistbyhayatbenlahcen.blogspot.com](datascientistbyhayatbenlahcen.blogspot.com)
+- 📝 I regularly write articles on [datascientistwithhayatbenlahcen.blogspot.com](datascientistbyhayatbenlahcen.blogspot.com)
 
 - 📫 How to reach me **Twitter -@LahcenHayat**
 
